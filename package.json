@@ -1,0 +1,4 @@
+{
+  "name": "club-management-app",
+  "dependencies": { "expo": "~48.0.0" }
+}

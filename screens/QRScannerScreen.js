@@ -1,0 +1,1 @@
+// QRScannerScreen.js content placeholder

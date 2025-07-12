@@ -1,0 +1,1 @@
+// App.js updated to include AuthContext and new screens

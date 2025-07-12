@@ -1,0 +1,1 @@
+// NotificationScreen.js content placeholder

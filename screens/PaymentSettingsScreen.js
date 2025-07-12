@@ -1,0 +1,1 @@
+// PaymentSettingsScreen.js content placeholder

@@ -1,0 +1,1 @@
+// RegisterMemberScreen.js content placeholder
